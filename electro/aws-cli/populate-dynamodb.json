@@ -1,0 +1,333 @@
+{
+    "MyproductsTable": [{
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "S": "4e53920c-505a-4a90-a694-b9300791f0ae"
+                    },
+                    "Name": {
+                        "S": "Evangeline"
+                    },
+                    "Description": {
+                        "S": "Evangeline is the global sophisticate of the mythical world. You'd be hard pressed to find a more seductive, charming, and mysterious companion with a love for neoclassical architecture, and a degree in medieval studies. Don't let her beauty and brains distract you. While her mane may always be perfectly coifed, her tail is ever-coiled and ready to strike. Careful not to let your guard down, or you may just find yourself spiraling into a dazzling downfall of dizzying dimensions."
+                    },
+                    "Price": {
+                        "S": "43"
+                    },
+                    "CurrentPrice": {
+                        "S": "43"
+                    },
+                    "ProfileImageUri": {
+                        "S": "//img10.360buyimg.com/n1/s450x450_jfs/t1/10718/1/857/207189/5bdbf1fcE4c6fdbfb/779a582d0c08beb3.jpg"
+                    },
+                    "Count": {
+                        "N": "60"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "S": "2b473002-36f8-4b87-954e-9a377e0ccbec"
+                    },
+                    "Name": {
+                        "S": "Pauly"
+                    },
+                    "Species": {
+                        "S": "Cyclops"
+                    },
+                    "Description": {
+                        "S": "Naturally needy and tyrannically temperamental, Pauly the infant cyclops is searching for a parental figure to call friend. Like raising any precocious tot, there may be occasional tantrums of thunder, lightning, and 100 decibel shrieking. Sooth him with some Mandrake root and you'll soon wonder why people even bother having human children. Gaze into his precious eye and fall in love with this adorable tyke."
+                    },
+                    "Price": {
+                        "S": "2"
+                    },
+                    "CurrentPrice": {
+                        "S": "43"
+                    },
+                    "ProfileImageUri": {
+                        "S": "//img11.360buyimg.com/n1/s450x450_jfs/t1/9743/37/14805/391963/5c67ef84Eaabe9be8/4cedcfc2be643fd7.jpg"
+                    },
+                    "Count": {
+                        "N": "30"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "S": "0e37d916-f960-4772-a25a-01b762b5c1bd"
+                    },
+                    "Name": {
+                        "S": "CoCo"
+                    },
+                    "Description": {
+                        "S": "CoCo wears sunglasses at night. His hobbies include dressing up for casual nights out, accumulating debt, and taking his friends on his back for a terrifying ride through the mesosphere after a long night of revelry, where you pick up the bill, of course. For all his swagger, CoCo has a heart of gold. His loyalty knows no bounds, and once bonded, you've got a wingman (literally) for life."
+                    },
+                    "Price": {
+                        "S": "501"
+                    },
+                    "CurrentPrice": {
+                        "S": "43"
+                    },
+                    "ProfileImageUri": {
+                        "S": "//img11.360buyimg.com/n1/s450x450_jfs/t1/17923/10/7179/341741/5c67f16aE6785d392/b9a9fd45b5c0e227.jpg"
+                    },
+                    "Count": {
+                        "N": "40"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "S": "da5303ae-5aba-495c-b5d6-eb5c4a66b941"
+                    },
+                    "Name": {
+                        "S": "Gretta"
+                    },
+                    "Description": {
+                        "S": "Young, fun, and perfectly mischievous, Gorgon is mostly tail. She's currently growing her horns and hoping for wings like those of her high-flying counterparts. In the meantime, she dons an umbrella and waits for gusts of wind to transport her across space-time. She Count to tell jokes in fluent Parseltongue, read the evening news, and shoot fireworks across celestial lines. If you like high-risk, high-reward challenges, Gorgon will be the best pet you never knew you wanted."
+                    },
+                    "Price": {
+                        "S": "31"
+                    },
+                    "CurrentPrice": {
+                        "S": "43"
+                    },
+                    "ProfileImageUri": {
+                        "S": "//img11.360buyimg.com/n1/s450x450_jfs/t1/7738/2/15311/213951/5c6fbd0cE87c8d5c5/48fa86ce67df4f98.jpg"
+                    },
+                    "Count": {
+                        "N": "30"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "S": "a901bb08-1985-42f5-bb77-27439ac14300"
+                    },
+                    "Name": {
+                        "S": "Hasla"
+                    },
+                    "Description": {
+                        "S": "Hasla's presence warms every room. For the last 2 billion years, she's made visitors from far-away lands and the galaxy next door feel immediately at ease. Usually it's because of her big heart, but sometimes it's because of the fire she breathes'especially after eating garlic and starlight. Hasla loves togetherness, board games, and asking philosophical questions that leave people pondering the meaning of life as they fall asleep at night."
+                    },
+                    "Price": {
+                        "S": "2000000000"
+                    },
+                    "CurrentPrice": {
+                        "S": "43"
+                    },
+                    "ProfileImageUri": {
+                        "S": "//img14.360buyimg.com/n1/s450x450_jfs/t1/31520/38/35/326450/5c36de36Ebad42c60/fc55f48c6807e2ab.jpg"
+                    },
+                    "Count": {
+                        "N": "50"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "S": "b41ff031-141e-4a8d-bb56-158a22bea0b3"
+                    },
+                    "Name": {
+                        "S": "Snowflake"
+                    },
+                    "Description": {
+                        "S": "While Snowflake is a snowman, the only abomination is that he hasn't been adopted yet. Snowflake is curious, playful, and loves to bound around in the snow. He Count winter hikes, hide and go seek, and all things Christmas. He can get a bit agitated when being scolded or having his picture taken and can occasionally cause devastating avalanches, so we don't recommend him for beginning pet owners. However, with love, care, and a lot of ice, Snowflake will make a wonderful companion."
+                    },
+                    "Price": {
+                        "S": "13"
+                    },
+                    "CurrentPrice": {
+                        "S": "43"
+                    },
+                    "ProfileImageUri": {
+                        "S": "//img14.360buyimg.com/n1/s450x450_jfs/t1/20286/32/9629/405253/5c80d55eE945049e5/66fa7fab6cedd1ab.jpg"
+                    },
+                    "Count": {
+                        "N": "20"
+                    }
+                  
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "S": "3f0f196c-4a7b-43af-9e29-6522a715342d"
+                    },
+                    "Name": {
+                        "S": "Gary"
+                    },
+                    "Description": {
+                        "S": "Gary loves to have a good time. His motto? 'I just want to dance.' Give Gary a disco ball, a DJ, and a hat that slightly obscures the vision from his top eye, and Gary will dance the year away which, at his age, is like one night in humanoid time. If you're looking for a low-maintenance, high-energy creature companion that never sheds and always shreds, Gary is just the kraken for you."
+                    },
+                    "Price": {
+                        "S": "2709"
+                    },
+                    "CurrentPrice": {
+                        "S": "43"
+                    },
+                    "ProfileImageUri": {
+                        "S": "//img14.360buyimg.com/n1/s450x450_jfs/t1/14981/1/6528/123783/5c553fb7E142c0bf1/ecf7d30e5c7af704.jpg"
+                    },
+                    "Count": {
+                        "N": "30"
+                    }
+                  
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "S": "a68db521-c031-44c7-b5ef-bfa4c0850e2a"
+                    },
+                    "Name": {
+                        "S": "Nessi"
+                    },
+                    "Description": {
+                        "S": "Nessi is a fun-loving and playful girl who will quickly lock on to your love and nestle into your heart. While shy at first, Nessi is energetic and loves to play with toys such as fishing boats, large sharks, frisbees, errant swimmers, and wand toys. As an aquatic animal, Nessi will need deep water to swim in; at least 15 feet though she prefers 750. Nessi would be a wonderful companion for anyone seeking a loving, 1 ton ball of joy."
+                    },
+                    "Price": {
+                        "S": "75000000"
+                    },
+                    "CurrentPrice": {
+                        "S": "43"
+                    },
+                    "ProfileImageUri": {
+                        "S": "//img12.360buyimg.com/n1/s450x450_jfs/t1/9125/12/14768/177289/5c6a7a45E1d6d9d13/a213968a8709e725.jpg"
+                    },
+                    "Count": {
+                        "N": "45"
+                    }
+                 
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "S": "c0684344-1eb7-40e7-b334-06d25ac9268c"
+                    },
+                    "Name": {
+                        "S": "Atlantis"
+                    },
+                    "Description": {
+                        "S": "Do you like long naps in the dirt, vegetable-like appendages, mind-distorting screaming, and a unmatched humanoid-like root system? Look no further, Atlantis is the perfect companion to accompany you down the rabbit hole! Atlantis is rooted in habitual power napping and can unleash a terse warning when awakened. Like all of us, at the end of a long nap, all Atlantis needs is a soothing milk or blood bath to take the edge off. If you're looking to take a trip, this mandrake is your ideal travel companion."
+                    },
+                    "Price": {
+                        "S": "100"
+                    },
+                    "CurrentPrice": {
+                        "S": "43"
+                    },
+                    "ProfileImageUri": {
+                        "S": "//img12.360buyimg.com/n1/s450x450_jfs/t1/29888/27/10978/244871/5c8b5857E4a30f3e9/9a9c125e25ed31fa.jpg"
+                    },
+                    "Count": {
+                        "N": "32"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "S": "ac3e95f3-eb40-4e4e-a605-9fdd0224877c"
+                    },
+                    "Name": {
+                        "S": "Twilight Glitter"
+                    },
+                    "Description": {
+                        "S": "Twilight's personality sparkles like the night sky and is looking for a forever home with a Greek hero or God. While on the smaller side at 14 hands, he is quite adept at accepting riders and can fly to 15,000 feet. Twilight needs a large area to run around in and will need to be registered with the FAA if you plan to fly him above 500 feet. His favorite activities include playing with chimeras, going on epic adventures into battle, and playing with a large inflatable ball around the paddock. If you bring him home, he'll quickly become your favorite little Pegasus."
+                    },
+                    "Price": {
+                        "S": "6"
+                    },
+                    "CurrentPrice": {
+                        "S": "43"
+                    },
+                    "ProfileImageUri": {
+                        "S": "//img14.360buyimg.com/n1/s450x450_jfs/t1/17847/10/14159/133234/5ca471a7E9f5496b4/5420f5be0bcd3721.jpg"
+                    },
+                    "Count": {
+                        "N": "23"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "S": "33e1fbd4-2fd8-45fb-a42f-f92551694506"
+                    },
+                    "Name": {
+                        "S": "Cole"
+                    },
+                    "Description": {
+                        "S": "Cole is a loving companion and the perfect starter pet for kids. Cole's tears can fix almost any boo-boo your children may receive (up to partial limb amputation). You never have to worry about your kids accidentally killing him as he'll just be reborn in a fun burst of flame if they do. Even better, Cole has the uncanny ability to force all those around him to tell the truth, so say goodbye to fibs about not eating a cookie before dinner or where your teenager actually went that night. Adopt him today and find out how he will be the perfect family member for you, your children, their children, their children's children, and so on."
+                    },
+                    "Price": {
+                        "S": "1393"
+                    },
+                    "CurrentPrice": {
+                        "S": "43"
+                    },
+                    "ProfileImageUri": {
+                        "S": "//img12.360buyimg.com/n1/s450x450_jfs/t1/28861/12/6392/101817/5c52b745Eaa137261/b1055527e456bf14.jpg"
+                    },
+                    "Count": {
+                        "N": "2"
+                    }
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "ProductID": {
+                        "S": "b6d16e02-6aeb-413c-b457-321151bb403d"
+                    },
+                    "Name": {
+                        "S": "Rujin"
+                    },
+                    "Description": {
+                        "S": "Are you looking for a strong companion for raids, someone to throw lightning during a pillage, or just a cuddly buddy who can light a campfire from 200 meters? Look no further than Rujin, a troll mage just coming into his teenage years. Rujin is a loyal companion who loves adventure, camping, and long walks through burning villages. He is great with kids and makes a wonderful guard-troll, especially if you have a couple bridges on your property. Rujin has a bit of a soft spot for gold, so you'll need to keep yours well hidden from him. Since he does keep a hoard on our property, we're waiving the adoption fee!"
+                    },
+                    "Price": {
+                        "S": "221"
+                    },
+                    "CurrentPrice": {
+                        "S": "43"
+                    },
+                    "ProfileImageUri": {
+                        "S": "//img14.360buyimg.com/n1/s450x450_jfs/t1/10215/33/13218/330247/5c7f3fd5E2d4afe26/dab9cc1ae2b9f4ba.jpg"
+                    },
+                    "Count": {
+                        "N": "1"
+                    }
+                }
+            }
+        }
+    ]
+}

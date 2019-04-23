@@ -1,0 +1,52 @@
+{
+  "myproducts": [
+    {
+      "productID": "4e53920c-505a-4a90-a694-b9300791f0ae",
+      "name": "Evangeline",
+      "currentPrice": "21",
+      "price": 43,
+      "description": "CoCo wears sunglasses at night. His hobbies include dressing up for casual nights out, accumulating debt, and taking his friends on his back for a terrifying ride through the mesosphere after a long night of revelry, where you pick up the bill, of course. For all his swagger, CoCo has a heart of gold. His loyalty knows no bounds, and once bonded, you’ve got a wingman (literally) for life.",
+      "profileImageUri": "https://www.mythicalmysfits.com/images/chimera_thumb.png"
+    },
+    {
+      "productID": "2b473002-36f8-4b87-954e-9a377e0ccbec",
+      "name": "Pauly",
+      "currentPrice": "78",
+      "price": 2,
+      "description": "Naturally needy and tyrannically temperamental, Pauly the infant cyclops is searching for a parental figure to call friend. Like raising any precocious tot, there may be occasional tantrums of thunder, lightning, and 100 decibel shrieking. Sooth him with some Mandrake root and you’ll soon wonder why people even bother having human children. Gaze into his precious eye and fall in love with this adorable tyke.",
+      "profileImageUri": "https://www.mythicalmysfits.com/images/cyclops_hover.png"
+    },
+    {
+      "productID": "0e37d916-f960-4772-a25a-01b762b5c1bd",
+      "name": "CoCo",
+      "currentPrice": "889",
+      "price": 501,
+      "description": "CoCo wears sunglasses at night. His hobbies include dressing up for casual nights out, accumulating debt, and taking his friends on his back for a terrifying ride through the mesosphere after a long night of revelry, where you pick up the bill, of course. For all his swagger, CoCo has a heart of gold. His loyalty knows no bounds, and once bonded, you’ve got a wingman (literally) for life.",
+      "profileImageUri": "https://www.mythicalmysfits.com/images/dragon_hover.png"
+    },
+    {
+      "productID": "da5303ae-5aba-495c-b5d6-eb5c4a66b941",
+      "name": "Gretta",
+      "currentPrice": "788",
+      "price": 31,
+      "description": "Young, fun, and perfectly mischievous, Gorgon is mostly tail. She's currently growing her horns and hoping for wings like those of her high-flying counterparts. In the meantime, she dons an umbrella and waits for gusts of wind to transport her across space-time. She likes to tell jokes in fluent Parseltongue, read the evening news, and shoot fireworks across celestial lines. If you like high-risk, high-reward challenges, Gorgon will be the best pet you never knew you wanted.",
+      "profileImageUri": "https://www.mythicalmysfits.com/images/gorgon_hover.png"
+    },
+    {
+      "productID": "b41ff031-141e-4a8d-bb56-158a22bea0b3",
+      "name": "Snowflake",
+      "currentPrice": "78",
+      "price": 13,
+      "description": "While Snowflake is a snowman, the only abomination is that he hasn’t been adopted yet. Snowflake is curious, playful, and loves to bound around in the snow. He likes winter hikes, hide and go seek, and all things Christmas. He can get a bit agitated when being scolded or having his picture taken and can occasionally cause devastating avalanches, so we don’t recommend him for beginning pet owners. However, with love, care, and a lot of ice, Snowflake will make a wonderful companion.",
+      "profileImageUri": "https://www.mythicalmysfits.com/images/yeti_hover.png"
+    },
+    {
+      "productID": "3f0f196c-4a7b-43af-9e29-6522a715342d",
+      "name": "Gary",
+      "currentPrice": "97",
+      "price": 2709,
+      "description": "Gary loves to have a good time. His motto? “I just want to dance.” Give Gary a disco ball, a DJ, and a hat that slightly obscures the vision from his top eye, and Gary will dance the year away which, at his age, is like one night in humanoid time. If you're looking for a low-maintenance, high-energy creature companion that never sheds and always shreds, Gary is just the kraken for you.",
+      "profileImageUri": "https://www.mythicalmysfits.com/images/kraken_hover.png"
+    }
+  ]
+}
